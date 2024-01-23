@@ -2,7 +2,7 @@
 
 This is an example repo corresponding to multiple lessons within the LearnHowToProgram.com walkthrough on creating a To Do List application in [Section 2: Basic Web Applications](https://www.learnhowtoprogram.com/c-and-net/basic-web-applications).
 
-There are multiple branches in this repo that are described more below.
+There are multiple branches in this repo that are described more below. 
 
 ## How To Run This Project
 
